@@ -1,0 +1,5 @@
+报告	基于双向GRU的自动写诗.pdf
+代码文件	code.py（不考虑平仄）
+	code_2.py（考虑平仄）
+语料库	poetry4min.txt
+	poetry6min.txt
